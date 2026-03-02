@@ -1,10 +1,9 @@
-# Pygame Doom-like
+# CDS 524 Assignment 1 Description
 
-Minimal Doom-like FPS demo in Pygame with:
+FPS demo in Pygame with:
 - raycast walls
 - sprite enemies
 - wave progression
-- an `RLEnemy`
 - player-side tabular Q-learning
 - a Training Arena mode
 
